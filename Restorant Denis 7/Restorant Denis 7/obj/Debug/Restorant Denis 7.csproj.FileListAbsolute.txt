@@ -1,0 +1,12 @@
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\bin\Debug\Restorant Denis 7.exe.config
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\bin\Debug\Restorant Denis 7.exe
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\bin\Debug\Restorant Denis 7.pdb
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant Denis 7.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant Denis 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant_Denis_7.Form1.resources
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant_Denis_7.Properties.Resources.resources
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant Denis 7.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant Denis 7.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant Denis 7.exe
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant Denis 7.pdb
+C:\Users\STUDENTS-1409-10\Desktop\normalniq\Restorant Denis 7\Restorant Denis 7\obj\Debug\Restorant_Denis_7.Form2.resources
